@@ -2,7 +2,7 @@ export const SITE = {
   website: "https://deepakkewadia.github.io/", // replace this with your deployed domain
   author: "Deepak Kewadia",
   desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
-  title: "AstroPaper",
+  title: "Nomicus Blogs",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerIndex: 4,
