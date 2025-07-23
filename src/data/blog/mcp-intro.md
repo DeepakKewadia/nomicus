@@ -9,7 +9,7 @@ tags:
   - mcp
   - ai
 canonicalURL: ''
-description: Discover the problem MCP solves and why it’s a game-changer in this byte-sized introduction.. 
+description: Discover the problem MCP solves and why it’s a game-changer in this byte-sized introduction.
 ---
 
 ## MCP (Model Context Protocol)
@@ -67,5 +67,5 @@ MCP defines three types of messages.
 }
 ```
 
-Now we have the message format with us but how this messages are transmitted to the client/server this part is defined by the MCP. Currently two types of transport mechanisms are supported by the MCP,
+Now we have the message format with us but how this messages are transmitted to the client/server this part is defined by the MCP.
 We will look into this in next blog.
