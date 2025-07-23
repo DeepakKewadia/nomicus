@@ -3,6 +3,7 @@ export const SITE = {
   author: "Deepak Kewadia",
   desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
   title: "Nomicus Blogs",
+  profile: "",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerIndex: 4,
@@ -11,7 +12,7 @@ export const SITE = {
   showArchives: true,
   showBackButton: false, // show back button in post detail
   editPost: {
-    enabled: true,
+    enabled: false,
     text: "Edit page",
     url: "https://github.com/DeepakKewadia/nomicus/astro-paper/edit/main/",
   },
